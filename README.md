@@ -1,21 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,50:764ba2,100:f093fb&amp;height=240&amp;section=header&amp;text=Platform%20Engineering%20%26%20SRE&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Cloud-Native%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20DevOps&amp;descAlignY=57&amp;descSize=18&amp;animation=fadeIn" alt="Platform Engineering & SRE" />
-
-</div>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
 <img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="130" height="130" alt="Kubestronaut" />
 
 ### Kubestronaut
-
-<sub>Awarded by CNCF · Linux Foundation — recognizes engineers who hold all five Kubernetes certifications: CKA · CKAD · CKS · KCNA · KCSA</sub>
 
 </div>
 
