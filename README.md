@@ -52,11 +52,10 @@
 
 ---
 
-## 🛠️ Core Platform & Infrastructure Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ☸️ Container Orchestration & Service Mesh
 <table>
   <tr>
     <td align="center" width="90">
@@ -72,27 +71,13 @@
       <br>Helm
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/istio/icon/color/istio-icon-color.svg" width="45" height="45" alt="Istio" />
-      <br>Istio
+      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
+      <br>Terraform
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="45" height="45" alt="ArgoCD" />
-      <br>ArgoCD
+      <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible" />
+      <br>Ansible
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/flux/icon/color/flux-icon-color.svg" width="45" height="45" alt="Flux" />
-      <br>Flux
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/containerd/icon/color/containerd-icon-color.svg" width="45" height="45" alt="containerd" />
-      <br>containerd
-    </td>
-  </tr>
-</table>
-
-### ☁️ Cloud Providers
-<table>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS" />
       <br>AWS
@@ -106,42 +91,6 @@
       <br>GCP
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/other/cncf/icon/color/cncf-icon-color.svg" width="45" height="45" alt="CNCF" />
-      <br>CNCF
-    </td>
-  </tr>
-</table>
-
-### ⚙️ Infrastructure as Code & Configuration
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible" />
-      <br>Ansible
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pulumi" width="45" height="45" alt="Pulumi" />
-      <br>Pulumi
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/crossplane/icon/color/crossplane-icon-color.svg" width="45" height="45" alt="Crossplane" />
-      <br>Crossplane
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=packer" width="45" height="45" alt="Packer" />
-      <br>Packer
-    </td>
-  </tr>
-</table>
-
-### 🔁 CI/CD Pipelines
-<table>
-  <tr>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" />
       <br>GH Actions
     </td>
@@ -149,39 +98,19 @@
       <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins" />
       <br>Jenkins
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab CI" />
       <br>GitLab CI
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/tekton/icon/color/tekton-icon-color.svg" width="45" height="45" alt="Tekton" />
-      <br>Tekton
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="45" height="45" alt="Argo Workflows" />
-      <br>Argo WF
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle" />
-      <br>Gradle
-    </td>
-  </tr>
-</table>
-
-### 📊 Observability — Metrics · Logs · Traces
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="45" height="45" alt="Prometheus" />
-      <br>Prometheus
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana" />
       <br>Grafana
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/jaeger/icon/color/jaeger-icon-color.svg" width="45" height="45" alt="Jaeger" />
-      <br>Jaeger
+      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="45" height="45" alt="Prometheus" />
+      <br>Prometheus
     </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="45" height="45" alt="OpenTelemetry" />
@@ -189,48 +118,38 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch" />
-      <br>ELK Stack
+      <br>Elastic
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/fluentd/icon/color/fluentd-icon-color.svg" width="45" height="45" alt="Fluentd" />
-      <br>Fluentd
+      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="45" height="45" alt="ArgoCD" />
+      <br>ArgoCD
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="45" height="45" alt="Loki" />
-      <br>Loki
-    </td>
-  </tr>
-</table>
-
-### 🔐 Security & Secrets Management
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.png" width="45" height="45" alt="Vault" />
+      <img src="https://skillicons.dev/icons?i=vault" width="45" height="45" alt="Vault" />
       <br>Vault
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" width="45" height="45" alt="Falco" />
-      <br>Falco
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="45" height="45" alt="Trivy" />
-      <br>Trivy
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" />
+      <br>Bash
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/open-policy-agent/opa/main/docs/website/static/img/logo.svg" width="45" height="45" alt="OPA" />
-      <br>OPA
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cert-manager/cert-manager/master/logo/logo.svg" width="45" height="45" alt="cert-manager" />
-      <br>cert-manager
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
     </td>
   </tr>
-</table>
-
-### 🗄️ Data & Messaging Infrastructure
-<table>
   <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Kafka" />
+      <br>Kafka
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -240,46 +159,28 @@
       <br>Redis
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Kafka" />
-      <br>Kafka
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB" />
       <br>DynamoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch" />
-      <br>Elasticsearch
-    </td>
-  </tr>
-</table>
-
-### 💻 Scripting & Automation
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=pulumi" width="45" height="45" alt="Pulumi" />
+      <br>Pulumi
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle" />
+      <br>Gradle
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
+      <br>Nginx
     </td>
   </tr>
 </table>
