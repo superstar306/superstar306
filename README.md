@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DevOps%20%7C%20Platform%20%7C%20SRE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20Reliable%2C%20Scalable%20Infrastructure&descAlignY=58&descSize=16" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=0F202700&center=true&vCenter=true&width=700&height=70&lines=Platform+Engineering+%26+Site+Reliability" alt="Platform Engineering & Site Reliability" />
+<br>
+<img src="https://img.shields.io/badge/Cloud--Native%20Infrastructure-0f2027?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-0f2027?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/DevOps-0f2027?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </div>
 
@@ -11,42 +15,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="110" height="110" alt="Kubestronaut" />
-      <br><b>⭐ Kubestronaut</b>
-      <br><sub>CNCF / Linux Foundation</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="110" height="110" alt="CKA" />
-      <br><b>CKA</b>
-      <br><sub>Certified Kubernetes Administrator</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="110" height="110" alt="CKAD" />
-      <br><b>CKAD</b>
-      <br><sub>Certified Kubernetes Application Developer</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="110" height="110" alt="CKS" />
-      <br><b>CKS</b>
-      <br><sub>Certified Kubernetes Security Specialist</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_plaque.png" width="110" height="110" alt="KCNA" />
-      <br><b>KCNA</b>
-      <br><sub>Kubernetes & Cloud Native Associate</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="110" height="110" alt="KCSA" />
-      <br><b>KCSA</b>
-      <br><sub>Kubernetes & Cloud Native Security Associate</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="130" height="130" alt="Kubestronaut" />
 
-> 🌟 **Kubestronaut** — Awarded by CNCF to engineers who hold all five Kubernetes certifications: CKA · CKAD · CKS · KCNA · KCSA
+### Kubestronaut
+
+<sub>Awarded by CNCF · Linux Foundation — recognizes engineers who hold all five Kubernetes certifications: CKA · CKAD · CKS · KCNA · KCSA</sub>
 
 </div>
 
@@ -67,7 +40,7 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=helm" width="45" height="45" alt="Helm" />
+      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" width="45" height="45" alt="Helm" />
       <br>Helm
     </td>
     <td align="center" width="90">
@@ -125,7 +98,7 @@
       <br>ArgoCD
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vault" width="45" height="45" alt="Vault" />
+      <img src="https://cdn.simpleicons.org/vault" width="45" height="45" alt="Vault" />
       <br>Vault
     </td>
     <td align="center" width="90">
@@ -143,7 +116,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -167,7 +140,7 @@
       <br>DynamoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pulumi" width="45" height="45" alt="Pulumi" />
+      <img src="https://cdn.simpleicons.org/pulumi" width="45" height="45" alt="Pulumi" />
       <br>Pulumi
     </td>
     <td align="center" width="90">
@@ -190,5 +163,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=4A90D9&center=true&vCenter=true&width=500&height=40&lines=Building+reliable+infrastructure%2C+one+cluster+at+a+time." alt="footer" />
 </div>
