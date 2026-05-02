@@ -1,11 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=0F202700&center=true&vCenter=true&width=700&height=70&lines=Platform+Engineering+%26+Site+Reliability" alt="Platform Engineering & Site Reliability" />
-<br>
-<img src="https://img.shields.io/badge/Cloud--Native%20Infrastructure-0f2027?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-0f2027?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-<img src="https://img.shields.io/badge/DevOps-0f2027?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,50:764ba2,100:f093fb&amp;height=240&amp;section=header&amp;text=Platform%20Engineering%20%26%20SRE&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Cloud-Native%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20DevOps&amp;descAlignY=57&amp;descSize=18&amp;animation=fadeIn" alt="Platform Engineering & SRE" />
 
 </div>
 
@@ -163,5 +159,5 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=4A90D9&center=true&vCenter=true&width=500&height=40&lines=Building+reliable+infrastructure%2C+one+cluster+at+a+time." alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f093fb,50:764ba2,100:667eea&amp;height=140&amp;section=footer&amp;text=Building%20reliable%20systems%2C%20one%20cluster%20at%20a%20time&amp;fontSize=15&amp;fontColor=ffffff&amp;fontAlignY=75&amp;animation=fadeIn" alt="footer" />
 </div>
